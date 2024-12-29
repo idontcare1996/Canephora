@@ -38,3 +38,4 @@ This process raises a few questions:
 * How much debt should be liquidated such that the least ammount of currency is used?
   * If the fixed value is 0.30EUR, then liquidating 100 coffees should be easily done with a 10EUR bank note. In this case, if the coffee tally is at 99 coffees, it's better to wait for the 100th coffee.
 
+I've picked the name Canephora from the [ _Coffea Canephora_](https://en.wikipedia.org/wiki/Coffea_canephora) coffee plant specie, given the project's association with coffee.
